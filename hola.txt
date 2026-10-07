@@ -1,2 +1,5 @@
 hola 
+<<<<<<< HEAD
 "Desde main" 
+"desde desarrollo" 
+50ab668 (Añade desde desarrollo)
